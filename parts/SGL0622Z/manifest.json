@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/SGL0622Z:SGL0622Z",
+  "name": "SGL0622Z",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/SGL0622Z.kicad_sym",
+  "description": "5 MHz to 4000 MHz, Low-Noise SiGe HBT MMIC Amplifier, DFN-8",
+  "datasheet": "https://www.qorvo.com/products/d/da001879",
+  "keywords": "rf gain block",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.6x1.2mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/SGL0622Z/",
+  "part_path": "parts/SGL0622Z",
+  "symbol_file": "parts/SGL0622Z/SGL0622Z.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.858Z"
+}

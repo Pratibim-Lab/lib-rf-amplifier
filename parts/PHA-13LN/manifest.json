@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/PHA-13LN:PHA-13LN",
+  "name": "PHA-13LN",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/PHA-13LN.kicad_sym",
+  "description": "1-1000MHz +22.4dB Low Noise Amplifier, SOT-89",
+  "datasheet": "https://www.minicircuits.com/pdfs/PHA-13LN+.pdf",
+  "keywords": "RF amplifier",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "SPF5189Z",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/PHA-13LN/",
+  "part_path": "parts/PHA-13LN",
+  "symbol_file": "parts/PHA-13LN/PHA-13LN.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.838Z"
+}

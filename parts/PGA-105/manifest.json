@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/PGA-105:PGA-105",
+  "name": "PGA-105",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/PGA-105.kicad_sym",
+  "description": "40-2600MHz +15.1dB Low Noise Amplifier, SOT-89",
+  "datasheet": "https://www.minicircuits.com/pdfs/PGA-105+.pdf",
+  "keywords": "RF amplifier",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "SPF5189Z",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/PGA-105/",
+  "part_path": "parts/PGA-105",
+  "symbol_file": "parts/PGA-105/PGA-105.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.785Z"
+}

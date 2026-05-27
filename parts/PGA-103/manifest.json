@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/PGA-103:PGA-103",
+  "name": "PGA-103",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/PGA-103.kicad_sym",
+  "description": "50-4000MHz +11dB Low Noise Amplifier, SOT-89",
+  "datasheet": "https://www.minicircuits.com/pdfs/PGA-103+.pdf",
+  "keywords": "RF amplifier",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "SPF5189Z",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/PGA-103/",
+  "part_path": "parts/PGA-103",
+  "symbol_file": "parts/PGA-103/PGA-103.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.782Z"
+}

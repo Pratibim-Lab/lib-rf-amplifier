@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/MMZ09332BT1:MMZ09332BT1",
+  "name": "MMZ09332BT1",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/MMZ09332BT1.kicad_sym",
+  "description": "High Efficiency/Linearity Amplifier high linearity broadband amplifier, QFN-12",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/MMZ09332B.pdf",
+  "keywords": "RF",
+  "footprint": "Package_DFN_QFN:QFN-12-1EP_3x3mm_P0.5mm_EP1.6x1.6mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/MMZ09332BT1/",
+  "part_path": "parts/MMZ09332BT1",
+  "symbol_file": "parts/MMZ09332BT1/MMZ09332BT1.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.765Z"
+}

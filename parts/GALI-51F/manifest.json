@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/GALI-51F:GALI-51F",
+  "name": "GALI-51F",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/GALI-51F.kicad_sym",
+  "description": "DC-4000MHz +15.9dB Gain Block, SOT-89",
+  "datasheet": "https://www.minicircuits.com/pdfs/GALI-51F+.pdf",
+  "keywords": "RF amplifier",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "SPF5189Z",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/GALI-51F/",
+  "part_path": "parts/GALI-51F",
+  "symbol_file": "parts/GALI-51F/GALI-51F.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.643Z"
+}

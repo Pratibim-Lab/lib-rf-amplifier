@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/BGA2850:BGA2850",
+  "name": "BGA2850",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/BGA2850.kicad_sym",
+  "description": "MIC wideband amplifier, DC-2.2GHz, +24dB @ 950MHz, 5V, SOT-363-6",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/BGA2850.pdf",
+  "keywords": "RF GAIN BLOCK",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "BGA2866",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/BGA2850/",
+  "part_path": "parts/BGA2850",
+  "symbol_file": "parts/BGA2850/BGA2850.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.493Z"
+}

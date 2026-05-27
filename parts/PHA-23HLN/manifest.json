@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/PHA-23HLN:PHA-23HLN",
+  "name": "PHA-23HLN",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/PHA-23HLN.kicad_sym",
+  "description": "30-2000MHz +21.3dB Low Noise Amplifier, SOT-89",
+  "datasheet": "https://www.minicircuits.com/pdfs/PHA-23HLN+.pdf",
+  "keywords": "RF amplifier",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "SPF5189Z",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/PHA-23HLN/",
+  "part_path": "parts/PHA-23HLN",
+  "symbol_file": "parts/PHA-23HLN/PHA-23HLN.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.847Z"
+}

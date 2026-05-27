@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/ADL5542:ADL5542",
+  "name": "ADL5542",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/ADL5542.kicad_sym",
+  "description": "20-6000MHz RF/IF +20dB gain block, LFCSP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADL5542.pdf",
+  "keywords": "RF GAIN BLOCK",
+  "footprint": "Package_CSP:Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/ADL5542/",
+  "part_path": "parts/ADL5542",
+  "symbol_file": "parts/ADL5542/ADL5542.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.440Z"
+}

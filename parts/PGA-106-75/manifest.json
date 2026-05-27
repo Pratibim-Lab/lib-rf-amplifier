@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/PGA-106-75:PGA-106-75",
+  "name": "PGA-106-75",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/PGA-106-75.kicad_sym",
+  "description": "50-1500MHz +16.9dB CATV Amplifier, SOT-89",
+  "datasheet": "https://www.minicircuits.com/pdfs/PGA-106-75+.pdf",
+  "keywords": "RF amplifier",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "SPF5189Z",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/PGA-106-75/",
+  "part_path": "parts/PGA-106-75",
+  "symbol_file": "parts/PGA-106-75/PGA-106-75.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.791Z"
+}

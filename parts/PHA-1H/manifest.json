@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/PHA-1H:PHA-1H",
+  "name": "PHA-1H",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/PHA-1H.kicad_sym",
+  "description": "50-6000MHz +13.8dB Linear Amplifier, SOT-89",
+  "datasheet": "https://www.minicircuits.com/pdfs/PHA-1H+.pdf",
+  "keywords": "RF amplifier",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "SPF5189Z",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/PHA-1H/",
+  "part_path": "parts/PHA-1H",
+  "symbol_file": "parts/PHA-1H/PHA-1H.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.842Z"
+}

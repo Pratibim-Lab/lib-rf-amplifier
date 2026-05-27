@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/QPL9547:QPL9547",
+  "name": "QPL9547",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/QPL9547.kicad_sym",
+  "description": "100-6000MHz RF/IF +19.5dB gain block, DFN-8",
+  "datasheet": "https://www.qorvo.com/products/d/da007268",
+  "keywords": "RF GAIN BLOCK",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/QPL9547/",
+  "part_path": "parts/QPL9547",
+  "symbol_file": "parts/QPL9547/QPL9547.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.855Z"
+}

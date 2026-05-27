@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/TRF37A73:TRF37A73",
+  "name": "TRF37A73",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/TRF37A73.kicad_sym",
+  "description": "6GHz, 12dB RF Gain Block, WSON-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/trf37a73.pdf",
+  "keywords": "gain block RF",
+  "footprint": "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/TRF37A73/",
+  "part_path": "parts/TRF37A73",
+  "symbol_file": "parts/TRF37A73/TRF37A73.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.866Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/HMC1099PM5E:HMC1099PM5E",
+  "name": "HMC1099PM5E",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/HMC1099PM5E.kicad_sym",
+  "description": "10 W (40 dBm), 0.01 GHz to 1.1 GHz, GaN Power Amplifier, LFCSP-32",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/HMC1099PM5E.pdf",
+  "keywords": "RF Amplifier",
+  "footprint": "Package_CSP:LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/HMC1099PM5E/",
+  "part_path": "parts/HMC1099PM5E",
+  "symbol_file": "parts/HMC1099PM5E/HMC1099PM5E.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.746Z"
+}

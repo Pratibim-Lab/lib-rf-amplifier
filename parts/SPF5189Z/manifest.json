@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/SPF5189Z:SPF5189Z",
+  "name": "SPF5189Z",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/SPF5189Z.kicad_sym",
+  "description": "50MHz to 4000MHz, GaAs pHEMT low noise MMIC amplifier, SOT-89",
+  "datasheet": "www.qorvo.com/products/d/da001910",
+  "keywords": "RF GAIN BLOCK",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/SPF5189Z/",
+  "part_path": "parts/SPF5189Z",
+  "symbol_file": "parts/SPF5189Z/SPF5189Z.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.863Z"
+}

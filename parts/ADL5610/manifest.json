@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/ADL5610:ADL5610",
+  "name": "ADL5610",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/ADL5610.kicad_sym",
+  "description": "30-6000MHz RF/IF +18.4dB gain block, SOT-89",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADL5610.pdf",
+  "keywords": "RF GAIN BLOCK",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "SPF5189Z",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/ADL5610/",
+  "part_path": "parts/ADL5610",
+  "symbol_file": "parts/ADL5610/ADL5610.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.448Z"
+}

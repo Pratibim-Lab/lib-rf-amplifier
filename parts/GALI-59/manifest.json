@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/GALI-59:GALI-59",
+  "name": "GALI-59",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/GALI-59.kicad_sym",
+  "description": "DC-5000MHz +18.3dB Gain Block, SOT-89",
+  "datasheet": "https://www.minicircuits.com/pdfs/GALI-59+.pdf",
+  "keywords": "RF amplifier",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "SPF5189Z",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/GALI-59/",
+  "part_path": "parts/GALI-59",
+  "symbol_file": "parts/GALI-59/GALI-59.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.663Z"
+}

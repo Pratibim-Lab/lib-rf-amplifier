@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/GALI-39:GALI-39",
+  "name": "GALI-39",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/GALI-39.kicad_sym",
+  "description": "DC-7000MHz +19.7dB Low Noise Amplifier, SOT-89",
+  "datasheet": "https://www.minicircuits.com/pdfs/GALI-39+.pdf",
+  "keywords": "RF amplifier",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "SPF5189Z",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/GALI-39/",
+  "part_path": "parts/GALI-39",
+  "symbol_file": "parts/GALI-39/GALI-39.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.614Z"
+}

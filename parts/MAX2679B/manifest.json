@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/MAX2679B:MAX2679B",
+  "name": "MAX2679B",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/MAX2679B.kicad_sym",
+  "description": "GPS/GNSS Ultra-Low Current Low-Noise Amplifier, +16.5dB @ 1.57GHz, WLP-4",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX2679-MAX2679B.pdf",
+  "keywords": "RF GAIN BLOCK",
+  "footprint": "Package_BGA:WLP-4_0.83x0.83mm_P0.4mm",
+  "extends": "MAX2679",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/MAX2679B/",
+  "part_path": "parts/MAX2679B",
+  "symbol_file": "parts/MAX2679B/MAX2679B.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.761Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/BGA2800:BGA2800",
+  "name": "BGA2800",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/BGA2800.kicad_sym",
+  "description": "MMIC wideband amplifier, DC-2.2GHz, +20.2dB @ 2150MHz, 3.3V, SOT-363",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/BGA2800.pdf",
+  "keywords": "RF GAIN BLOCK",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "BGA2866",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/BGA2800/",
+  "part_path": "parts/BGA2800",
+  "symbol_file": "parts/BGA2800/BGA2800.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.455Z"
+}

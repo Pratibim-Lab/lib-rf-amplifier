@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/CMX901:CMX901",
+  "name": "CMX901",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/CMX901.kicad_sym",
+  "description": "Broadband Efficient RF Power Amplifier",
+  "datasheet": "https://www.cmlmicro.com/wp-content/uploads/2017/10/CMX901_ds.pdf",
+  "keywords": "RF POWER AMPLIFIER BROADBAND",
+  "footprint": "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/CMX901/",
+  "part_path": "parts/CMX901",
+  "symbol_file": "parts/CMX901/CMX901.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.540Z"
+}

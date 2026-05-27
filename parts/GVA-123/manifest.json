@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/GVA-123:GVA-123",
+  "name": "GVA-123",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/GVA-123.kicad_sym",
+  "description": "10-12000MHz +16.9dB Gain Block, SOT-89",
+  "datasheet": "https://www.minicircuits.com/pdfs/GVA-123+.pdf",
+  "keywords": "RF amplifier",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "SPF5189Z",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/GVA-123/",
+  "part_path": "parts/GVA-123",
+  "symbol_file": "parts/GVA-123/GVA-123.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.690Z"
+}

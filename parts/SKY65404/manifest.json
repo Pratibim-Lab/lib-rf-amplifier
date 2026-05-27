@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/SKY65404:SKY65404",
+  "name": "SKY65404",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/SKY65404.kicad_sym",
+  "description": "4.9-5.9GHz, 13dB Low-Noise Amplifier, QFN-6",
+  "datasheet": "http://www.skyworksinc.com/uploads/documents/SKY65404_31_201512K.pdf",
+  "keywords": "LNA low noise amplifier RF",
+  "footprint": "RF:Skyworks_SKY65404-31",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/SKY65404/",
+  "part_path": "parts/SKY65404",
+  "symbol_file": "parts/SKY65404/SKY65404.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.861Z"
+}

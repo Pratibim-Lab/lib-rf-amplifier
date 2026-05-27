@@ -1,0 +1,17 @@
+{
+  "id": "RF_Amplifier/GVA-83:GVA-83",
+  "name": "GVA-83",
+  "library": "RF_Amplifier",
+  "file": "RF_Amplifier.kicad_symdir/GVA-83.kicad_sym",
+  "description": "DC-7000MHz +17.1dB Gain Block, SOT-89",
+  "datasheet": "https://www.minicircuits.com/pdfs/GVA-83+.pdf",
+  "keywords": "RF amplifier",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "SPF5189Z",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-amplifier@master/parts/GVA-83/",
+  "part_path": "parts/GVA-83",
+  "symbol_file": "parts/GVA-83/GVA-83.kicad_sym",
+  "source_library": "RF_Amplifier.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:02.730Z"
+}
